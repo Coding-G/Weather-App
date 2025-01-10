@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+}
+#app {
+    display: inline-block;
+    text-align: center;
+    background-color: #c5e3f7;
+    border-radius: 20px;
+    padding: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#button {
+    padding: 20px;
+    background-color: rgb(115, 165, 208);
+    border-radius: 10px;
+}
+#cityInput {
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    border-color: #467391;
+}
